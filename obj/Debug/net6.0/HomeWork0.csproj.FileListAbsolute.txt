@@ -1,0 +1,15 @@
+D:\GITREPOSITORI\GeekBrains\HomeWork0\bin\Debug\net6.0\HomeWork0.exe
+D:\GITREPOSITORI\GeekBrains\HomeWork0\bin\Debug\net6.0\HomeWork0.deps.json
+D:\GITREPOSITORI\GeekBrains\HomeWork0\bin\Debug\net6.0\HomeWork0.runtimeconfig.json
+D:\GITREPOSITORI\GeekBrains\HomeWork0\bin\Debug\net6.0\HomeWork0.dll
+D:\GITREPOSITORI\GeekBrains\HomeWork0\bin\Debug\net6.0\HomeWork0.pdb
+D:\GITREPOSITORI\GeekBrains\HomeWork0\obj\Debug\net6.0\HomeWork0.csproj.AssemblyReference.cache
+D:\GITREPOSITORI\GeekBrains\HomeWork0\obj\Debug\net6.0\HomeWork0.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITREPOSITORI\GeekBrains\HomeWork0\obj\Debug\net6.0\HomeWork0.AssemblyInfoInputs.cache
+D:\GITREPOSITORI\GeekBrains\HomeWork0\obj\Debug\net6.0\HomeWork0.AssemblyInfo.cs
+D:\GITREPOSITORI\GeekBrains\HomeWork0\obj\Debug\net6.0\HomeWork0.csproj.CoreCompileInputs.cache
+D:\GITREPOSITORI\GeekBrains\HomeWork0\obj\Debug\net6.0\HomeWork0.dll
+D:\GITREPOSITORI\GeekBrains\HomeWork0\obj\Debug\net6.0\refint\HomeWork0.dll
+D:\GITREPOSITORI\GeekBrains\HomeWork0\obj\Debug\net6.0\HomeWork0.pdb
+D:\GITREPOSITORI\GeekBrains\HomeWork0\obj\Debug\net6.0\HomeWork0.genruntimeconfig.cache
+D:\GITREPOSITORI\GeekBrains\HomeWork0\obj\Debug\net6.0\ref\HomeWork0.dll
